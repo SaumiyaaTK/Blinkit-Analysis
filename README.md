@@ -1,6 +1,8 @@
 # 🛒 Blinkit Grocery Sales Dashboard  
 
-
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/Blinkit-Analysis/blob/main/Blinkit.png" alt="Blinkit">
+</div>
 
 An **interactive Power BI dashboard** built for analyzing grocery sales performance of Blinkit.  
 This project provides insights into **sales trends, outlet performance, item categories, fat content analysis, and customer ratings** using the provided dataset.  
@@ -33,6 +35,14 @@ The dataset used: **`BlinkIT Grocery Data.xlsx`**
 - 📏 `Outlet_Size` → Small, Medium, High  
 - 📍 `Outlet_Location_Type` → Tier 1, Tier 2, Tier 3  
 - 📅 `Outlet_Establishment_Year` → Year outlet was opened  
+
+---
+
+## ⚙️ Tools & Technologies  
+
+🟡 **Power BI** → Dashboard creation and visualization  
+📊 **Excel** → Data cleaning & preprocessing  
+🧮 **DAX** → For calculated measures and KPIs  
 
 ---
 
@@ -73,9 +83,12 @@ The dashboard contains multiple **interactive visuals**:
 
 ---
 
-## ⚙️ Tools & Technologies  
+## 📂 Attachments 📎  
+- 📑 [Blinkit Dashboard](Dashboard/) → Power BI `.pbix` file 🖼️  
+- 🖼️ [Blinkit Dataset](Dataset/) → Blinkit Grocery Dataset 📂 
 
-🟡 **Power BI** → Dashboard creation and visualization  
-📊 **Excel** → Data cleaning & preprocessing  
-🧮 **DAX** → For calculated measures and KPIs  
+---
 
+## 👤 Author ✍️  
+**Saumiyaa T K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
