@@ -79,11 +79,3 @@ The dashboard contains multiple **interactive visuals**:
 📊 **Excel** → Data cleaning & preprocessing  
 🧮 **DAX** → For calculated measures and KPIs  
 
----
-
-## 🚀 How to Use  
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/blinkit-dashboard.git
-   cd blinkit-dashboard
