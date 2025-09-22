@@ -1,15 +1,9 @@
-<div align="center">
-  <a href="https://blinkit.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Blinkit-yellow-logo.png" alt="Blinkit Logo" width="200"/>
-  </a>
-</div>
-
 # 🛒 Blinkit Grocery Sales Dashboard  
+
+
 
 An **interactive Power BI dashboard** built for analyzing grocery sales performance of Blinkit.  
 This project provides insights into **sales trends, outlet performance, item categories, fat content analysis, and customer ratings** using the provided dataset.  
-
-
 
 ---
 
