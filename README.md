@@ -1,7 +1,7 @@
 # 🛒 Blinkit Grocery Sales Dashboard  
 
 <div align="center">
-  <img src="https://github.com/SaumiyaaTK/Blinkit-Analysis/blob/main/Blinkit.png" alt="Blinkit">
+  <img src="https://github.com/SaumiyaaTK/Blinkit-Analysis/blob/main/Blinkit Grocery Analysis.png" alt="Blinkit">
 </div>
 
 An **interactive Power BI dashboard** built for analyzing grocery sales performance of Blinkit.  
